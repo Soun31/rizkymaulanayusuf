@@ -1,10 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-	cout << " Programmed by Rizky Maulana Yusuf " << endl;
-	cout << " Teknik Informatika B " << endl;
-	cout << " Universitas Muhammadiyah Sukabumi " << endl;
-	cout << " Mata Kuliah Dasar Pemrograman " << endl;
 	
 	cout << "------------------------------------------------------" << endl;
 	cout << "------------------------------------------------------" << endl;
@@ -162,11 +158,6 @@ do{
 	
 } while (iyakah == 'Y' || iyakah == 'y') ;
 	
-
-
 }
 
-
-
-//kokohihi
 
